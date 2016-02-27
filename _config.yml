@@ -1,0 +1,28 @@
+name: ThatCoolDad
+favicon: null
+layout_spectrum: 0.03478720993734896
+typography_spectrum: 0.6241159252822399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4629195227753371
+  lightness: 0.8532344931736588
+  saturation: 0.12242442928254604
+  rhythmicContrast: 0.24167787958867848
+purpose: []
