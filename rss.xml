@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ThatCoolDad]]></title>
         <description><![CDATA[ThatCoolDad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thatcooldad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:01:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 18:08:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thatcooldad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Dad's Club]]></title>
-            <description><![CDATA[<article><h1>Welcome to The Dad's Club</h1><p>My dad was a hipster before you...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2be3722d-ae27-4745-877b-2b2030382364.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-the-dads-club/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to The Dad's Club</h1><p>My dad was a hipster before you...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59c0b6da676009f1f8390bf7ea572f24ecd87c05.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thatcooldad/welcome-to-the-dads-club/index.html</link>
             <guid isPermaLink="false">794bf743-0c94-46f7-8be5-8e6065bf2ee3</guid>
-            <pubDate>Sat, 27 Feb 2016 18:00:29 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 18:07:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
